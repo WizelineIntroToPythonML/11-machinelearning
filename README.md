@@ -8,7 +8,7 @@
 
 [Today's Jupyter Notebook](./machinelearning.ipynb)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WizelineIntroToPythonML/10-machinelearning/HEAD?labpath=machinelearning.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WizelineIntroToPythonML/11-machinelearning/HEAD?labpath=machinelearning.ipynb)
 
 ## Feedback
 
