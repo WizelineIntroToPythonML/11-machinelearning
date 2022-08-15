@@ -1,0 +1,12 @@
+# Jupyter and Pandas Libraries
+jupyter
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+# Development tools
+black
+pylint
+mypy
